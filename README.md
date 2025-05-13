@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a website in NextJS with a friend<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with C++<br>🌱 I’m currently learning many things like japanese, Ada<br>💬 Ask me about also a lo of things
+🔭 I’m currently working NumWorks external applications<br>
+👯 I’m looking to collaborate on any project<br>
+🌱 I’m currently learning many things<br>
+💬 Ask me about also a lot of things
 
 
 ## 🌐 Socials:
