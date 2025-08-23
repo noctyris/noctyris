@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working NumWorks external applications<br>
+🔭 I’m currently working some projects<br>
 👯 I’m looking to collaborate on any project<br>
 🌱 I’m currently learning many things<br>
 💬 Ask me about also a lot of things
