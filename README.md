@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://github.com/noctyris">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=db61a2&fontSize=54&height=90&width=698&text=Hello!%20I'm%20Noctyris" alt="Hello! I&#39;m Noctyris" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=noctyris&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126427514%3Fu%3Dc8278cf84e0c3e4b0bc40306841f0222614e5c5e%26v%3D4&variant=living-identity&label=Noctyris&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=noctyris&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126427514%3Fu%3Dc8278cf84e0c3e4b0bc40306841f0222614e5c5e%26v%3D4&variant=living-identity&label=Noctyris&v=wow-living-identity-1&mode=dark" width="100%" alt="Noctyris animated Living Identity portrait and ASCII name" />
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=445&height=44&lines=%E2%9D%A4%EF%B8%8F%20JJ%202461144.2395833335%20%E2%9D%A4%EF%B8%8F;I%20use%20Arch%20btw" alt="Typing headlines" />
@@ -75,6 +74,11 @@
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=noctyris&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126427514%3Fu%3Dc8278cf84e0c3e4b0bc40306841f0222614e5c5e%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=noctyris&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F126427514%3Fu%3Dc8278cf84e0c3e4b0bc40306841f0222614e5c5e%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Noctyris animated technology stack" />
+</picture>
 
 ---
 <p align="center"><i>⭐️ From <a href="https://github.com/noctyris">noctyris</a></i></p>
